@@ -19,6 +19,8 @@ const styles = StyleSheet.create({
     margin: 8,
     alignItems: "center",
     justifyContent: "center",
+    width: "40%",
+    alignSelf: "center",
   },
   numberText: {
     color: Colors.accent500,
